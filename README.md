@@ -5,7 +5,9 @@
  [![Gmail](https://img.shields.io/badge/-GMAIL-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:rodolfo360tisilveira@gmail.com)](mailto:rodolfo360tisilveira@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-RodolfoSilveira-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodolfo-santos-silveira-b9590b189/)](https://www.linkedin.com/in/rodolfo-santos-silveira-b9590b189/)
 
-</div> 
+</div>
+
+## About me
 
 :man_technologist: <strong>I'm a Software engineer</strong>
 
