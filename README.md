@@ -30,7 +30,7 @@ Information Systems student at [Unifacs](https://www.unifacs.br) :computer: .
 ## Knowledge
 
 **Languages**
-[![PHP](https://img.shields.io/badge/-php-black?style=flat-square&logo=php&link=https://github.com/RodolfoSilveira/)](https://github.com/RodolfoSilveira/)
+[![PHP](https://img.shields.io/badge/-php-E34F26?style=flat-square&logo=php&link=https://github.com/RodolfoSilveira/)](https://github.com/RodolfoSilveira/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/RodolfoSilveira/)](https://github.com/RodolfoSilveira/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=https://github.com/RodolfoSilveira/)](https://github.com/RodolfoSilveira/)
 
@@ -50,7 +50,7 @@ Information Systems student at [Unifacs](https://www.unifacs.br) :computer: .
 
 **Others Technologies**
 [![Gradle](https://img.shields.io/badge/-Gradle-02303A?style=flat-square&logo=Gradle&link=https://github.com/RodolfoSilveira/)](https://github.com/RodolfoSilveira/)
-[![Postman](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=Insomnia&link=https://github.com/RodolfoSilveira/)](https://github.com/RodolfoSilveira/)
+[![Postman](https://img.shields.io/badge/-Postman-grey?style=flat-square&logo=Postman&link=https://github.com/RodolfoSilveira/)](https://github.com/RodolfoSilveira/)
 [![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&link=https://github.com/RodolfoSilveira/)](https://github.com/RodolfoSilveira/)
 [![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&link=https://github.com/RodolfoSilveira/)](https://github.com/RodolfoSilveira/)
 [![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&link=https://github.com/RodolfoSilveira/)](https://github.com/RodolfoSilveira/)
