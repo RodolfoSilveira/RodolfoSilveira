@@ -30,7 +30,7 @@ Information Systems student at [Unifacs](https://www.unifacs.br) :computer: .
 ## Knowledge
 
 **Languages**
-[![PHP](https://img.shields.io/badge/-php-E34F26?style=flat-square&logo=php&link=https://github.com/RodolfoSilveira/)](https://github.com/RodolfoSilveira/)
+[![PHP](https://img.shields.io/badge/-php-grey?style=flat-square&logo=php&link=https://github.com/RodolfoSilveira/)](https://github.com/RodolfoSilveira/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/RodolfoSilveira/)](https://github.com/RodolfoSilveira/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=https://github.com/RodolfoSilveira/)](https://github.com/RodolfoSilveira/)
 
