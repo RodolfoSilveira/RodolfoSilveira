@@ -13,7 +13,8 @@
 
 
 System analysis and development student at [Unifacs](https://www.unifacs.br) :computer: .
-
+Graduated in computer networks at [Unifacs](https://www.unifacs.br) :computer: . 
+ 
 <br />
 
 ## Languages and Technologies I use daily
