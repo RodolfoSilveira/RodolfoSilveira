@@ -12,7 +12,7 @@
 :man_technologist: <strong>I'm a Software engineer</strong>
 
 
-System analysis and development student at [Unifacs](https://www.unifacs.br) :computer: .
+System analysis and development student at [Unifacs](https://www.unifacs.br) :computer: .  
 Graduated in computer networks at [Unifacs](https://www.unifacs.br) :computer: . 
  
 <br />
